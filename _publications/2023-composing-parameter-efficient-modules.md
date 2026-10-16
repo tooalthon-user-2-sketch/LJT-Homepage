@@ -1,0 +1,2 @@
+---
+title: \"Composing Parameter-Efficient Modules with Arithmetic Operations\"\ncollection: publications\ncategory: conferences\npermalink: /publication/2023-composing-parameter-efficient-modules\ndate: 2023-01-01\nvenue: 'NeurIPS 2023'\ncitation: 'Junteng Liu, et al. (2023). "Composing Parameter-Efficient Modules with Arithmetic Operations." NeurIPS 2023.'\n---\n\nAuthors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.\n\nPublished at [NeurIPS 2023](https://nips.cc/).

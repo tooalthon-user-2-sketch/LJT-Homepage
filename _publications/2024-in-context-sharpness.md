@@ -1,0 +1,2 @@
+---
+title: \"In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation\"\ncollection: publications\ncategory: conferences\npermalink: /publication/2024-in-context-sharpness\ndate: 2024-01-01\nvenue: 'ICML 2024'\ncitation: 'Junteng Liu, et al. (2024). "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation." ICML 2024.'\n---\n\nAuthors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.\n\nPublished at [ICML 2024](https://icml.cc/).

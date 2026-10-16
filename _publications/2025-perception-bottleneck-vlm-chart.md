@@ -1,0 +1,2 @@
+---
+title: \"On the Perception Bottleneck of VLMs for Chart Understanding\"\ncollection: publications\ncategory: conferences\npermalink: /publication/2025-perception-bottleneck-vlm-chart\ndate: 2025-01-01\nvenue: 'ArXiv'\ncitation: 'Junteng Liu, et al. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." ArXiv.'\n---\n\n**First author:** Junteng Liu.\n\nCo-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.\n\nPublished on [ArXiv](https://arxiv.org/). Code repository: [Vision4Chart](https://github.com/Vicent0205).
