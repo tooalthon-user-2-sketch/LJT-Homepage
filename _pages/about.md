@@ -26,27 +26,25 @@ Having an international scope of research over many teams:
 
 - **Junxian He** as my supervisor on PhD studies.
 - **Zifei Shan** advised me during my research internship at Tencent WXG (June – September 2024).
-- **Yu Cheng** also advised me at the Shanghai AI Lab (June – December 2023).
+- **Yu Cheng** also advised me during my research internship at the Shanghai AI Lab (June – December 2023).
 
 ## Skills & Expertise
 
 - Collaborate with interdisciplinary team methods for socially beneficial applications of large language models.
-- Elegantly development and scientific communication: primary research papers, H-index profiles–dash?
 - Organize extensive data and conduct scalable datasets and models for academic research.
 
 ## Publications
 
 Most **Representative Publications**
 
-- **2025** Junteng Liu* Yuanxiang Fan*, Zhuo Jiang*, Han Ding*, Yongyi Hu*, Chi Zhang*, Yiqi Shi*, Shitong Weng*, Aili Chen*, Shiqi Chen*等 Yisqi Huang, Mozhi Zhang*, Pengyu Zhao*, Junjie Yan*, Junxian He*. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." arXiv, 2025. First author.
-- **2025** Junteng Liu*, Weihao Zeng*, Xiwen Zhang*, Yijun Wang*, Zifei Shan*, Junxian He*. "On the Perception Bottleneck of VLMs for Chart Understanding." arXiv, 2025. First author. [GitHub code repository: Vision4Chart].
-- **2024** Junteng Liu*, Shiqi Chen*, Yu Cheng*, Junxian He*. "On the Universal Truthfulness Hyperplane Inside LLMs." EMNLP 2024. First author.
-- **2024** Shiqi Chen*, Miao Xiong*, Junteng Liu*, Zhengxuan Wu*, Teng Xiao*, Siyang Gao*, Junxian He*. "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation." ICML 2024.
+- **2025** Junteng Liu*, Yuanxiang Fan*, Zhuo Jiang*, Han Ding*, Yongyi Hu*, Chi Zhang*, Yiqi Shi*, Shitong Weng*, Aili Chen*, Shiqi Chen*, et al. Year". "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." arXiv, 2025. First author.
+- **2025** Junteng Liu*, Weihao Zeng*, Xiwen Zhang*, Yijun Wang*, Zifei Shan*, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding." arXiv, 2025. First author. [GitHub code repository: Vision4Chart].
+- **2024** Junteng Liu*, Shiqi Chen*, Yu Cheng*, Junxian He. "On the Universal Truthfulness Hyperplane Inside LLMs." EMNLP 2024. First author.
+- **2024** Shiqi Chen*, Miao Xiong*, Junteng Liu*, Zhengxuan Wu*, Teng Xiao*, Siyang Gao*, Junxian He. "In-Context Sharpness as Alerts: An Inner Perspective for Hallucination Mitigation." ICML 2024.
 - **2023** Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models." NeurIPS 2023.
 - **2023** Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations." NeurIPS 2023.
 
 ## Contact
 
-- [Email] | 
-- [LinkedIn]-profile() | - Twitter: junitengx
-- [GitHub](https://github.com/Vicent0205) | [Google Scholar profile](scholar.google.com)
+- [Email](mailto:jliugi@connect.ust.hk)
+- [GitHub](https://github.com/Vicent0205) | [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate) | [X (@junteng88716710)](https://x.com/junteng88716710)
