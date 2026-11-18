@@ -7,58 +7,45 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024-Present
+  * HKUST NLP Group, supervised by Prof. Junxian He
+* B.Eng., Shanghai Jiao Tong University, 2020-2024
+  * Received the Zhiyuan Honor Scholarship
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Intern at MINIMAX (February 2025 - Present)
+  * AI company
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern at Tencent WXG (June 2024 - September 2024)
+  * Advised by Zifei Shan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Research Intern at Shanghai AI Lab (June 2023 - December 2023)
+  * Advised by Prof. Yu Cheng
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language Processing
+* Machine Learning
+* Large Language Model Reasoning and Reinforcement Learning
+* Vision-Language Models
+* Research on LLM Truthfulness and Interpretability
+* Python, PyTorch
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (2025)
+* On the Perception Bottleneck of VLMs for Chart Understanding (2025)
+* On the Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024)
+* In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation (ICML 2024)
+* C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models (NeurIPS 2023)
+* Composing Parameter-Efficient Modules with Arithmetic Operations (NeurIPS 2023)
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: jliugi@connect.ust.hk
+* GitHub: [Vicent0205](https://github.com/Vicent0205)
+* Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+* X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
